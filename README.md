@@ -1,5 +1,5 @@
 # recipie-lab
-The repository for recipies
+##The repository for recipies
 
 This repository will contain recipies that I have tried out and happy with.
 
